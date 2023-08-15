@@ -56,7 +56,7 @@ matplotlib-inline==0.1.6
 multidict==6.0.4
 numpy
 openai
-opencv-python==4.7.0
+opencv-python==4.8.0.76
 
 parso
 pickleshare
